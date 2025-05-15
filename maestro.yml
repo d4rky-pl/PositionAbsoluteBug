@@ -1,0 +1,6 @@
+appId: host.exp.exponent
+---
+- tapOn:
+    id: 'Dropdown'
+- tapOn:
+    id: 'Option:1'
